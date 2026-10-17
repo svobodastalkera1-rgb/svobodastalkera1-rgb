@@ -47,6 +47,12 @@ Application for automating tender product processing, supplier search and struct
 
 `Python` `Backend` `Excel processing` `Web application`
 
+### 🎬 [Private Video Downloader](https://github.com/svobodastalkera1-rgb/ez-dwnld)
+
+A Python tool that detects HLS video streams in embedded players with Playwright and saves authorized video content locally using yt-dlp.
+
+`Python` `Playwright` `yt-dlp` `asyncio` `HLS`
+
 ## 📊 GitHub Activity
 
 <p>
@@ -55,3 +61,4 @@ Application for automating tender product processing, supplier search and struct
     height="165"
   />
 </p>
+
