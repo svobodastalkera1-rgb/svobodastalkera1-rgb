@@ -57,7 +57,7 @@ A Python tool that detects HLS video streams in embedded players with Playwright
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=svobodastalkera1-rgb&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=svobodastalkera1-rgb&show_icons=true&hide_border=true&rank_icon=github"
     height="165"
   />
 </p>
